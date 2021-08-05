@@ -1,0 +1,99 @@
+header{
+display: grid;
+grid-template-columns: min-content auto auto ;
+
+margin-top: 15px;
+padding-bottom: 25px
+
+}
+
+.logo{
+float: left;
+
+}
+
+.headimg{
+    display:inline; float:right;
+    margin-right: 1px;
+
+}
+h1{
+    font-family: "Sofia", sans-serif;
+    font-size: 25;
+    margin: 0px;
+
+}
+header section{
+
+margin-left: 1%;
+
+}
+
+body{
+
+width: 960px;
+margin: auto;
+
+}
+section div{
+
+font-size: 10px;
+
+
+}
+
+.mainone , .maintwo {
+width: 100%;
+
+}
+
+.mainsection{
+
+display: grid;
+grid-template-columns: min-content auto min-content;
+
+
+}
+button{
+
+width:150px ;
+height: 50px;
+background-color: rgb(235, 116, 69);
+
+}
+.centersec{
+align-content: top;
+
+}
+.topsec {
+display: grid;
+grid-template-columns: auto auto;
+
+}
+
+.imgtop{
+position:relative ;
+top: 70px;
+left: 365px;
+
+}
+.secp{
+    line-height: 0.05
+
+
+}
+
+h2{
+    font-size: 34px;
+
+}
+.secp p {
+
+    font-size: 14px;
+color: gray;
+}
+footer{
+align-content: center;
+align-items: center ;
+
+}
